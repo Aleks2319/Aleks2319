@@ -2,8 +2,6 @@
 
 I am an aspiring Frontend Developer focused on creating high-quality, responsive, and fast web interfaces with a strong eye for detail and clean code.
 
----
-
 ### 🛠️ Tech Stack
 
 * **Frontend:** HTML5, CSS3, SCSS/SASS, JavaScript, TypeScript, jQuery, Vue.js, React.js
@@ -16,6 +14,8 @@ I am an aspiring Frontend Developer focused on creating high-quality, responsive
 * **Telegram:** [@Aleks2319](https://t.me/Aleks2319)
 * **Email:** [semmikado@gmail.com](mailto:semmikado@gmail.com)
 * **Phone / Viber:** [+380 (98) 622-19-01](tel:+380986221901)
+
+---
 
 # Привет! Я Александр 👋
 
