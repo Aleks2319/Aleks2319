@@ -1,16 +1,18 @@
-## Hi there 👋
+### Привет! Я Александр 👋
 
-<!--
-**Aleks2319/Aleks2319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий Frontend-разработчик. Фокусируюсь на создании качественных, адаптивных и быстрых веб-интерфейсов, уделяю внимание деталям и чистоте кода.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Мой технологический стек:
+* **Frontend:** HTML5, CSS3, SCSS/SASS, JavaScript, TypeScript, jQuery, Vue JS, React JS
+* **Фреймворки и библиотеки:** React, Vue.js, Alpine.js, Bootstrap
+* **Инструменты и сборщики:** Git, GitHub, Webpack, Vite, Gulp, npm, Bun
+* **Верстка и дизайн:** Адаптивный дизайн (Mobile First), Tailwind CSS, Figma
+
+---
+
+### 📫 Как со мной связаться:
+* **Telegram:** [@Aleks2319](https://t.me/Aleks2319)
+* **Email:** [semmikado@gmail.com](mailto:semmikado@gmail.com)
+* **Телефон / Viber:** [+380 (98) 622-19-01](tel:+380986221901)
